@@ -31,7 +31,7 @@ Javascript-Bootcamp-Tasks-1/
 
 ## 🚀 Technologies Used
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
