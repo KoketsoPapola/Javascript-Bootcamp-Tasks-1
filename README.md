@@ -38,23 +38,3 @@ Javascript-Bootcamp-Tasks-1/
 ## 👩‍💻 Author
 
 Koketso Paulina Papola
-
-## 📌 How to Run
-
-1. Download or clone the repository
-2. Open the project folder
-3. Open `index.html` in your browser
-4. Open the browser console to view JavaScript outputs
-
-## 🔗 GitHub Repository
-
-Upload your project to GitHub using:
-
-```bash
-git init
-git add .
-git commit -m "Completed Javascript Bootcamp Task 1"
-git branch -M main
-git remote add origin YOUR_REPOSITORY_LINK
-git push -u origin main
-```
